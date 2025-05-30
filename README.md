@@ -12,5 +12,9 @@ OCRとChatGPTを組み合わせて、初心者や子供でも得点計算が簡�
 [技術解説はこちら](https://s-nakamura333.github.io/donjara/)
 
 ## 📁 実装ファイル
-- `DonjaraActivity.kt`
-- `DonjaraCalculator.kt`
+<ul>
+  <li><a href="donjara-src/DonjaraActivity.kt" target="_blank">📱 メイン画面（DonjaraActivity.kt）</a></li>
+  <li><a href="donjara-src/DonjaraCalculator.kt" target="_blank">🧮 得点計算ロジック（DonjaraCalculator.kt）</a></li>
+  <li><a href="donjara-src/HandCorrectionActivity.kt" target="_blank">🛠️ 誤認識修正画面（HandCorrectionActivity.kt）</a></li>
+</ul>
+

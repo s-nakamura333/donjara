@@ -9,7 +9,7 @@ OCRとChatGPTを組み合わせて、初心者や子供でも得点計算が簡�
 - Google ML Kit（OCR）
 
 ## 📄 ポートフォリオページ
-[技術解説はこちら](https://s-nakamura333.github.io/donjara/)
+[技術解説はこちら](https://s-nakamura333.github.io/donjara/),
 [PDFはこちら](https://github.com/s-nakamura333/donjara/blob/8b32a072000d8eeec1d20beff45048ff9b66ea9c/docs/donjara_pdf20250530.pdf)
 ## 📁 実装ファイル
 <ul>

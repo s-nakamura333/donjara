@@ -19,3 +19,12 @@ OCRとChatGPTを組み合わせて、初心者や子供でも得点計算が簡�
     <li><a href="https://docs.google.com/spreadsheets/d/13CZPRzGq6BKNJoJBxhMyVq7V38bt4eQrb_T3CHLwn4Q/edit?usp=sharing" target="_blank">ChatGPTに共有した資料の一部(Googleスプレッドシート)</a></li>
 </ul>
 
+<h2>📎 関連ポートフォリオリンク</h2>
+<ul>
+  <li><a href="https://github.com/s-nakamura333/sn-portfolio-site" target="_blank">就活用ポートフォリオ一覧</a></li>
+  <li><a href="https://github.com/s-nakamura333/donjara" target="_blank">ドンジャラ計算ツール</a></li>
+  <li><a href="https://github.com/s-nakamura333/RUL-prediction" target="_blank">ターボエンジンRUL予測</a></li>
+  <li><a href="https://github.com/s-nakamura333/kinoko" target="_blank">毒キノコの分類について</a></li>
+</ul>
+
+
